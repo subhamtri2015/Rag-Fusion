@@ -1,0 +1,5 @@
+{
+  "name": "Adaptive RAG Explorer",
+  "description": "An interactive web application that visualizes an Adaptive Retrieval-Augmented Generation (RAG) pipeline, inspired by LangGraph concepts, to intelligently answer user queries using different strategies.",
+  "requestFramePermissions": []
+}
